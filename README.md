@@ -1,7 +1,7 @@
 # UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird’s-Eye-View
 
 ## City-based split
-This repo contains the "city-based" split proposed in the paper. 
+This repo contains the "city-based" split proposed in the [paper](https://arxiv.org/abs/2207.08536). 
 * Trianing set: the samples collected in `singapore-queenstown` and `singapore-hollandvillage`.
 * Validation set: the samples collected in `singapore-onenorth` and `boston-seaport`.
 
